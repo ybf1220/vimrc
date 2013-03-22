@@ -1,8 +1,6 @@
 
 """"""""""""""""""""""""""""""""""""""""""""""""
-""""""""""""""""""""""""""""""""""""""""""""""""
-" Beanwonder's Configuration File for Gvim     "
-""""""""""""""""""""""""""""""""""""""""""""""""
+" Configuration File for Gvim "
 """"""""""""""""""""""""""""""""""""""""""""""""
 
 " set UI   
@@ -12,7 +10,7 @@ set background=dark
 "set transparency=6
 syntax on
 set nu
-set lines=30 columns=90
+set lines=34 columns=105
 " set NerdTree size
 let NERDTreeWinSize = 22
 

@@ -1,10 +1,6 @@
 "===============================================
-" Beanwonder's Configuration file for vim
-" File:.vimrc
-" Author:beanwonder
-" Email:bingwonder@gmail.com
+" Configuration file for vim
 "===============================================
-
 
 """"""""""""""""""""""""""""""""""""""""""""""
 "           config for vundle                "
@@ -56,7 +52,7 @@ filetype plugin indent on     " required!
 
 
 "--------------------------------------------
-" My General vim conf
+" General vim conf
 "--------------------------------------------
 syntax on
 set number
