@@ -35,9 +35,14 @@ Bundle 'snipMate'
  " ...
 " Plugin
 Bundle 'a.vim'
+Bundle 'vimwiki'
 Bundle 'scrooloose/nerdtree'
 Bundle 'Lokaltog/vim-powerline'
 filetype plugin indent on     " required!
+
+
+
+
 "
 " Brief help
 " :BundleList          - list configured bundles
